@@ -1,0 +1,4 @@
+telethon
+supabase
+fastapi
+uvicorn
